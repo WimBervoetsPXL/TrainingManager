@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TrainingManager.Application/TrainingManager.Application.csproj" />
+  <Project Path="TrainingManager.Domain/TrainingManager.Domain.csproj" />
+  <Project Path="TrainingManager.Infrastructure/TrainingManager.Infrastructure.csproj" />
+  <Project Path="TrainingManager.Presentation/TrainingManager.Presentation.csproj" />
+</Solution>
